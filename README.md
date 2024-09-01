@@ -6,3 +6,6 @@
 
 31-08-2024
 - Started preparing for interview . Go through some interview question.
+
+01-09-2024
+- Revised about Deep learning, it's application and ANN
