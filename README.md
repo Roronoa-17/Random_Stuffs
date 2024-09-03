@@ -13,3 +13,6 @@
 02-09-2024
 - Day 3 of interview preparation
 - Deep learning application and neural networks types.
+
+03-09-2024
+- Learned about activation function.
