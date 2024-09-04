@@ -16,3 +16,6 @@
 
 03-09-2024
 - Learned about activation function.
+
+04-09-2024
+- Learned about gradient descent.
