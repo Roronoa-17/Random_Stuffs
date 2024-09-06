@@ -22,3 +22,6 @@
 
 05-09-2024
 - Learned about CNN, it's training and it's architecture.
+
+06-09-2024
+- Learned about RNN, it's training.
