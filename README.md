@@ -25,3 +25,6 @@
 
 06-09-2024
 - Learned about RNN, it's training.
+
+07-09-2024
+- Learned about RNN arthitecture and maths behind its trianing.
