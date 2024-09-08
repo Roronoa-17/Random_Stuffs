@@ -28,3 +28,6 @@
 
 07-09-2024
 - Learned about RNN arthitecture and maths behind its trianing.
+
+08-09-2024
+- Learned about different types of RNN arthitecture.
