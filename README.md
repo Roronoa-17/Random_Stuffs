@@ -1,4 +1,4 @@
-# Random_Stuffs
+ii# Random_Stuffs
 
 
 30-08-2024
@@ -31,3 +31,6 @@
 
 08-09-2024
 - Learned about different types of RNN arthitecture.
+
+09-09-2024
+- Learned about vanishing and exploding gradient.
