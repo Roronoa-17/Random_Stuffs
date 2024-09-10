@@ -34,3 +34,6 @@ ii# Random_Stuffs
 
 09-09-2024
 - Learned about vanishing and exploding gradient.
+
+10-09-2024
+- Learned about LSTM.
