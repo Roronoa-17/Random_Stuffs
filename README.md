@@ -37,3 +37,6 @@ ii# Random_Stuffs
 
 10-09-2024
 - Learned about LSTM.
+
+11-09-2024
+- Learned about Gates of LSTM.
