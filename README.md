@@ -40,3 +40,6 @@ ii# Random_Stuffs
 
 11-09-2024
 - Learned about Gates of LSTM.
+
+12-09-2024
+- Learned about Momentum optimization technique.
