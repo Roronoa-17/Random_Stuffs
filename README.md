@@ -1,4 +1,4 @@
-ii# Random_Stuffs
+# Random_Stuffs
 
 
 30-08-2024
@@ -43,3 +43,6 @@ ii# Random_Stuffs
 
 12-09-2024
 - Learned about Momentum optimization technique.
+
+13-09-2024
+- Learned about CNN and it's architecture.
