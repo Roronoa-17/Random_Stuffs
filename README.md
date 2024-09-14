@@ -46,3 +46,6 @@
 
 13-09-2024
 - Learned about CNN and it's architecture.
+
+14-09-2024
+- Learned about training mathematics.
