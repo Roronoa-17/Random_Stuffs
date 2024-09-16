@@ -52,3 +52,6 @@
 
 15-09-2024
 - Learned about working of RCNN.
+
+16-09-2024
+- Learned about object localization.
