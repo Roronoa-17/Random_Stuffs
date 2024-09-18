@@ -58,3 +58,6 @@
 
 17-09-2024
 - Working on developing RAG application.
+
+18-09-2024
+-Learned working of object localisation.
