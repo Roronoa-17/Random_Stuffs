@@ -64,3 +64,6 @@
 
 19-09-2024
 - Working on developing RAG application.
+
+20-09-2024
+- Learned about Hybrid search RAG.
