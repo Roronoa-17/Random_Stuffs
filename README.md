@@ -67,3 +67,6 @@
 
 20-09-2024
 - Learned about Hybrid search RAG.
+
+21-09-2024
+- Learned about Hybrid Search RAG and its impplementation.
