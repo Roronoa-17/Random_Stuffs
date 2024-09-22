@@ -70,3 +70,6 @@
 
 21-09-2024
 - Learned about Hybrid Search RAG and its impplementation.
+
+22-09-2024
+- Learned about IOU.
