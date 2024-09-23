@@ -73,3 +73,6 @@
 
 22-09-2024
 - Learned about IOU.
+
+23-09-2024
+- Learned about building GPT from scratch.
