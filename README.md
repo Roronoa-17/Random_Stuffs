@@ -76,3 +76,6 @@
 
 23-09-2024
 - Learned about building GPT from scratch.
+
+24-09-2024
+- Started LLM bootcamp.
