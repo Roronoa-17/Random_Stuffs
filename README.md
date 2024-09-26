@@ -80,5 +80,8 @@
 24-09-2024
 - Started LLM bootcamp.
 
-24-09-2024
+25-09-2024
 - Learned about foundational machine learning.
+
+25-09-2024
+- Learned about LLM basics.
