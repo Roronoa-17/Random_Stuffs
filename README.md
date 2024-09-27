@@ -85,3 +85,6 @@
 
 25-09-2024
 - Learned about LLM basics.
+
+26-09-2024
+- Learned about Transformers architecture and different LLM architecture.
