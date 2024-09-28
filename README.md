@@ -83,8 +83,11 @@
 25-09-2024
 - Learned about foundational machine learning.
 
-25-09-2024
+26-09-2024
 - Learned about LLM basics.
 
-26-09-2024
+27-09-2024
 - Learned about Transformers architecture and different LLM architecture.
+
+28-09-2024
+- Learned about Prompt Engineering..
