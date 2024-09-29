@@ -90,4 +90,7 @@
 - Learned about Transformers architecture and different LLM architecture.
 
 28-09-2024
-- Learned about Prompt Engineering..
+- Learned about Prompt Engineering.
+
+29-09-2024
+- Learned about Augmented Language Model.
