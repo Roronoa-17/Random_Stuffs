@@ -94,3 +94,6 @@
 
 29-09-2024
 - Learned about Augmented Language Model.
+
+30-09-2024
+- Learned about context feeding to LLM.
