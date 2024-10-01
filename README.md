@@ -97,3 +97,7 @@
 
 30-09-2024
 - Learned about context feeding to LLM.
+
+01-10-2024
+- Started learning about Transformer.
+
