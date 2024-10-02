@@ -101,3 +101,5 @@
 01-10-2024
 - Started learning about Transformer.
 
+02-10-2024
+- Learned about Encoder and Decoder architecture.
