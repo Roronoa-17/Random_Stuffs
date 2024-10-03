@@ -103,3 +103,6 @@
 
 02-10-2024
 - Learned about Encoder and Decoder architecture.
+
+03-10-2024
+- Learned about attention and its working.
