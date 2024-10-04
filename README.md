@@ -106,3 +106,6 @@
 
 03-10-2024
 - Learned about attention and its working.
+
+04-10-2024
+- Learned about training of LLM.
