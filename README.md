@@ -109,3 +109,6 @@
 
 04-10-2024
 - Learned about training of LLM.
+
+05-10-2024
+- WORKING ON OCR ASSIGNMENT.
