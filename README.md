@@ -115,3 +115,6 @@
 
 06-10-2024
 - Working on OCR assignment.
+
+07-10-2024
+- Working on OCR assignment.
