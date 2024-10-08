@@ -118,3 +118,6 @@
 
 07-10-2024
 - Working on OCR assignment.
+
+08-10-2024
+- Implemented single transformer architecture (Decoder).
