@@ -121,3 +121,6 @@
 
 08-10-2024
 - Implemented single transformer architecture (Decoder).
+
+09-10-2024
+- Implemented LLM model using multi layer transformers.
