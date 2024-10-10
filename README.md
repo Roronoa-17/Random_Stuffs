@@ -124,3 +124,6 @@
 
 09-10-2024
 - Implemented LLM model using multi layer transformers.
+
+10-10-2024
+- Learned about PEFT and started working on Vehicle Monitoring system.
