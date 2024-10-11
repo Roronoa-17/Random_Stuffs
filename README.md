@@ -127,3 +127,7 @@
 
 10-10-2024
 - Learned about PEFT and started working on Vehicle Monitoring system.
+
+
+11-10-2024
+- done some setup for Vehicle Monitoring System.
