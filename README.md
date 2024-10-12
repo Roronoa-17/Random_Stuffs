@@ -131,3 +131,6 @@
 
 11-10-2024
 - done some setup for Vehicle Monitoring System.
+
+12-10-2024
+- Revised some sorting algorithm.
