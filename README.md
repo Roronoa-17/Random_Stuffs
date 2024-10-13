@@ -134,3 +134,6 @@
 
 12-10-2024
 - Revised some sorting algorithm.
+
+13-10-2024
+- Revised Merge sort Algorithm.
