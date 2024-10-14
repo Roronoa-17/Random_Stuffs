@@ -137,3 +137,6 @@
 
 13-10-2024
 - Revised Merge sort Algorithm.
+
+14-10-2024
+- Solved leetcode problem and learned about LLM deployment.
