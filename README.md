@@ -140,3 +140,6 @@
 
 14-10-2024
 - Solved leetcode problem and learned about LLM deployment.
+
+15-10-2024
+- Revision of quicksort.
