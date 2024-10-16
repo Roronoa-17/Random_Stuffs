@@ -143,3 +143,6 @@
 
 15-10-2024
 - Revision of quicksort.
+
+16-10-2024
+- Revised some DL and CV concepts.
