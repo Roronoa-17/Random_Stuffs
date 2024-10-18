@@ -149,3 +149,6 @@
 
 17-10-2024
 - Revised some DL and CV concepts.
+
+18-10-2024
+- Revised some DL and CV concepts.
