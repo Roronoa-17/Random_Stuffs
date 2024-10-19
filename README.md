@@ -152,3 +152,6 @@
 
 18-10-2024
 - Revised some DL and CV concepts.
+
+19-10-2024
+- Worked on labelling images.
