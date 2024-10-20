@@ -155,3 +155,6 @@
 
 19-10-2024
 - Worked on labelling images.
+
+20-10-2024
+- Revised some computer vision concepts.
