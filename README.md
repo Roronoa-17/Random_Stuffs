@@ -158,3 +158,6 @@
 
 20-10-2024
 - Revised some computer vision concepts.
+
+21-10-2024
+- Revised computer vision concepts.
