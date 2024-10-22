@@ -161,3 +161,6 @@
 
 21-10-2024
 - Revised computer vision concepts.
+
+22-10-2024
+- Learned some computer vision concepts.
