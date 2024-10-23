@@ -164,3 +164,6 @@
 
 22-10-2024
 - Learned some computer vision concepts.
+
+23-10-2024
+- Learned about FastAPI, solved 1 leetcoded problem and annotate some images.
