@@ -170,3 +170,6 @@
 
 24-10-2024
 - Learned about FastAPI, Deployment and working of Real time license plate recognition project on AWS and solved 1 leetcode problem.
+
+25-10-2024
+- Learned about FastAPI with MongoDB, worked on License plate recognition project and solved 1 leetcode problem.
