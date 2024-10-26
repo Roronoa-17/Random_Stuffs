@@ -173,3 +173,6 @@
 
 25-10-2024
 - Learned about FastAPI with MongoDB, worked on License plate recognition project and solved 1 leetcode problem.
+
+26-10-2024
+- Worked on License plate recognition project.
