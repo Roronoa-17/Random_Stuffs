@@ -176,3 +176,6 @@
 
 26-10-2024
 - Worked on License plate recognition project.
+
+27-10-2024
+- Learned about FastAPI , solved 1 leetcode problem.
