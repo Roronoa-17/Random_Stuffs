@@ -179,3 +179,6 @@
 
 27-10-2024
 - Learned about FastAPI , solved 1 leetcode problem.
+
+28-10-2024
+- Learned about FastAPI, and worked on Hackerrank.
