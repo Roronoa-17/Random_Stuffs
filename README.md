@@ -182,3 +182,6 @@
 
 28-10-2024
 - Learned about FastAPI, and worked on Hackerrank.
+
+29-10-2024
+- Learned about FastAPI.
