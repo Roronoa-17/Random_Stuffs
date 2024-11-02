@@ -193,3 +193,7 @@
 
 01-11-2024
 - Learned about FastAPI.
+
+
+02-11-2024
+- Learned about FastAPI.
